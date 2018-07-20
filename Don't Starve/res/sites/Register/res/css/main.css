@@ -1,0 +1,29 @@
+@import url('https://www.klei.com/sites/all/themes/klei_theme/game_themes/dont_starve/css/font-kit/moon_flower-webfont.woff');
+body{
+    background-image: url(https://www.klei.com/sites/all/themes/klei_theme/game_themes/dont_starve/css/images/background.jpg);
+}
+.card-header{
+    color:#FEFFA4;
+    font-family: 'ds_sans_font', cursive;
+}
+label{
+    font-family: 'ds_sans_font', cursive;
+    margin-bottom: 0;
+    color: #E4B16E;
+    margin-top: 10px;
+}
+.card{
+    margin-top: 50px;
+}
+.btn1{
+    position: absolute;
+    top: 715px;
+    right: 45px;
+    width: 200px;
+}
+.btn2{
+    position: absolute;
+    top: 660px;
+    right: 45px;
+    width: 200px;
+}
